@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
   <diagram name="Página-1" id="jM7lxEKWj-UprXVMMiSj">
-    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,7 +158,7 @@
           <mxGeometry x="225" y="1480" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-9xxhdU6zpW5x84kb3Ga-3" value="Paises" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="270" y="1540" width="160" height="86" as="geometry" />
+          <mxGeometry x="282.5" y="1529" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="-9xxhdU6zpW5x84kb3Ga-4" value="&lt;u&gt;Nº de País&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="-9xxhdU6zpW5x84kb3Ga-3" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -167,7 +167,7 @@
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-9xxhdU6zpW5x84kb3Ga-7" value="Hoteles" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="60" y="1530" width="160" height="236" as="geometry" />
+          <mxGeometry x="72.5" y="1529" width="160" height="236" as="geometry" />
         </mxCell>
         <mxCell id="-9xxhdU6zpW5x84kb3Ga-8" value="&lt;u&gt;Nº de País&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="-9xxhdU6zpW5x84kb3Ga-7" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -191,7 +191,7 @@
           <mxGeometry y="206" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v8e6qSbVIkH8Y4p5ILKF-2" value="Categoria" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="470" y="1690" width="160" height="86" as="geometry" />
+          <mxGeometry x="277.5" y="1667" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="v8e6qSbVIkH8Y4p5ILKF-6" value="Cod. de categoría&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=4" parent="v8e6qSbVIkH8Y4p5ILKF-2" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -200,7 +200,7 @@
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xGpMS7PiCY9Kp0agLqRa-15" value="Tipo Habitación" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="470" y="1530" width="160" height="116" as="geometry" />
+          <mxGeometry x="277.5" y="1799" width="160" height="116" as="geometry" />
         </mxCell>
         <mxCell id="xGpMS7PiCY9Kp0agLqRa-21" value="&lt;u&gt;Cod. Tipo Habitacion&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="xGpMS7PiCY9Kp0agLqRa-15" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -212,7 +212,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MbrZLyEGOneWsTnm67x0-5" value="Ciudades" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="270" y="1670" width="160" height="116" as="geometry" />
+          <mxGeometry x="497.5" y="1529" width="160" height="116" as="geometry" />
         </mxCell>
         <mxCell id="MbrZLyEGOneWsTnm67x0-7" value="&lt;u&gt;Nº de ciudad&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="MbrZLyEGOneWsTnm67x0-5" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -223,20 +223,32 @@
         <mxCell id="MbrZLyEGOneWsTnm67x0-8" value="Nombre de ciudad&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="MbrZLyEGOneWsTnm67x0-5" vertex="1">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xz4hlnODMBMm26LAJ6Bf-1" value="Zonas" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1786" width="160" height="146" as="geometry" />
+        <mxCell id="Xz4hlnODMBMm26LAJ6Bf-1" value="Zonas" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="497.5" y="1667" width="160" height="146" as="geometry" />
         </mxCell>
-        <mxCell id="Xz4hlnODMBMm26LAJ6Bf-2" value="&lt;u&gt;Nº de ciudad&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Xz4hlnODMBMm26LAJ6Bf-1">
+        <mxCell id="Xz4hlnODMBMm26LAJ6Bf-2" value="&lt;u&gt;Nº de ciudad&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="Xz4hlnODMBMm26LAJ6Bf-1" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xz4hlnODMBMm26LAJ6Bf-3" value="&lt;u&gt;Nº de País&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Xz4hlnODMBMm26LAJ6Bf-1">
+        <mxCell id="Xz4hlnODMBMm26LAJ6Bf-3" value="&lt;u&gt;Nº de País&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="Xz4hlnODMBMm26LAJ6Bf-1" vertex="1">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xz4hlnODMBMm26LAJ6Bf-6" value="&lt;u&gt;Nº de zona&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Xz4hlnODMBMm26LAJ6Bf-1">
+        <mxCell id="Xz4hlnODMBMm26LAJ6Bf-6" value="&lt;u&gt;Nº de zona&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="Xz4hlnODMBMm26LAJ6Bf-1" vertex="1">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xz4hlnODMBMm26LAJ6Bf-4" value="Nombre de Zona&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Xz4hlnODMBMm26LAJ6Bf-1">
+        <mxCell id="Xz4hlnODMBMm26LAJ6Bf-4" value="Nombre de Zona&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="Xz4hlnODMBMm26LAJ6Bf-1" vertex="1">
           <mxGeometry y="116" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YZ_iTIWEsLRAkcZD_jYd-1" value="Habitaciones" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="72.5" y="1799" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YZ_iTIWEsLRAkcZD_jYd-6" value="Nº de habitación" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=4" parent="YZ_iTIWEsLRAkcZD_jYd-1" vertex="1">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YZ_iTIWEsLRAkcZD_jYd-7" value="Cod. Tipo Habitacion" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="YZ_iTIWEsLRAkcZD_jYd-1" vertex="1">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YZ_iTIWEsLRAkcZD_jYd-5" value="Nº de hotel&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="YZ_iTIWEsLRAkcZD_jYd-1" vertex="1">
+          <mxGeometry y="86" width="160" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
